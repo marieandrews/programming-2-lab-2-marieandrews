@@ -1,0 +1,104 @@
+{
+  "tests": [
+    {
+      "name": "calcAmountOfShippingTest1",
+      "setup": "gradle clean",
+      "run": "gradle test --tests LabTwoTests.calcAmountOfShippingTest1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "calcAmountOfShippingTest2",
+      "setup": "",
+      "run": "gradle test --tests LabTwoTests.calcAmountOfShippingTest1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "findPrimeNumbersUptoInputTest1",
+      "setup": "",
+      "run": "gradle test --tests LabTwoTests.findPrimeNumbersUptoInputTest1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "findPrimeNumbersUptoInputTest2",
+      "setup": "",
+      "run": "gradle test --tests LabTwoTests.findPrimeNumbersUptoInputTest2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "generateShapeTest1",
+      "setup": "",
+      "run": "gradle test --tests LabTwoTests.generateShapeTest1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "generateShapeTest2",
+      "setup": "",
+      "run": "gradle test --tests LabTwoTests.generateShapeTest2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "depositTest1",
+      "setup": "",
+      "run": "gradle test --tests LabTwoTests.depositTest1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "withdrawTest1",
+      "setup": "",
+      "run": "gradle test --tests LabTwoTests.withdrawTest1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "calculateInterestTest1",
+      "setup": "",
+      "run": "gradle test --tests LabTwoTests.calculateInterestTest1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "equals1",
+      "setup": "",
+      "run": "gradle test --tests LabTwoTests.equals1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    }
+  ]
+}
